@@ -5,3 +5,5 @@
 .idea/workspace.xml
 package.json
 !/package.json
+node_modules
+public/buindle.js
